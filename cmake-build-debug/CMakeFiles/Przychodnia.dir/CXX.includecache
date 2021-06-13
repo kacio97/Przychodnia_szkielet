@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ZABAWA EWA/Przychodnia/Naglowkowe.h
+iostream
+-
+vector
+-
+
+D:/ZABAWA EWA/Przychodnia/Pacjent.h
+Naglowkowe.h
+D:/ZABAWA EWA/Przychodnia/Naglowkowe.h
+
+D:/ZABAWA EWA/Przychodnia/Przychodnia.cpp
+Przychodnia.h
+D:/ZABAWA EWA/Przychodnia/Przychodnia.h
+
+D:/ZABAWA EWA/Przychodnia/Przychodnia.h
+Naglowkowe.h
+D:/ZABAWA EWA/Przychodnia/Naglowkowe.h
+Pacjent.h
+D:/ZABAWA EWA/Przychodnia/Pacjent.h
+

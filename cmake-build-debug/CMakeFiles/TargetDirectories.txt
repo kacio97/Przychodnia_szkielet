@@ -1,0 +1,3 @@
+D:/ZABAWA EWA/Przychodnia/cmake-build-debug/CMakeFiles/Przychodnia.dir
+D:/ZABAWA EWA/Przychodnia/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ZABAWA EWA/Przychodnia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
